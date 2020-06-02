@@ -1,10 +1,10 @@
 # KING COUNTY HOUSE SALE MARKET
 
-![]seattle.jpg
+![](seattle.jpg)
 
 ## Introduction
 
-A real estate company wants to invest in one of the fastest growing cities in the U.S.: Seattle. A price of a house is affected by many factors such as location, the footage, the condition, and so on. On the other hand, the real estate company also needs to see whether they should invest in expensive areas with less houses sold or invest in more affordable areas with more houses sold. Therefore, to have a better understanding about the home sale market in Seattle or King County in general, a data analysis is done on King County home sales data between the period of May 2014 and May 2015. 
+A real estate company wants to invest in one of the fastest growing cities in the U.S.: Seattle. A price of a house is affected by many factors such as locations, the footage of the house, the condition, and so on. On the other hand, the real estate company also needs to see whether they should invest in expensive areas with less houses sold or invest in more affordable areas with more houses sold. Therefore, to have a better understanding about the home sale market in Seattle or King County in general, a data analysis is done on King County home sales data between the period of May 2014 and May 2015. 
 
 ## Research Questions
 *Which areas of King County are most expensive?
@@ -25,7 +25,7 @@ A real estate company wants to invest in one of the fastest growing cities in th
 
 ## Non-technical Presentation
 
-* presentation.pdf
+presentation.pdf
 
 ## Walkthrough Video
 
