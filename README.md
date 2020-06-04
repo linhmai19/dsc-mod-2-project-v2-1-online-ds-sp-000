@@ -11,12 +11,12 @@ A real estate company wants to invest in one of the fastest growing cities in th
 
 * Which are the most active areas in term of buying and selling houses in King County?
 
-* Out of 18 given factors, which are the most important and influent factors on King County house prices?
+* Out of 19 given factors, which factors are most important and influent on King County house prices?
 
 ## Appendix for Files
-* Data Cleaning: data_cleaning.ipynb
+* Data Cleaning: <a href="https://github.com/linhmai19/dsc-mod-2-project-v2-1-online-ds-sp-000/blob/master/data_cleaning.ipynb">data_cleaning.ipynb</a>
 
-* EDA and model fitting: KC_analysis.ipynb
+* EDA and modeling: <a href="https://github.com/linhmai19/dsc-mod-2-project-v2-1-online-ds-sp-000/blob/master/KC_analysis.ipynb ">KC_analysis.ipynb</a>
 
 ## Dataset:
 * Raw data: kc_house_data.csv
@@ -33,6 +33,6 @@ kc_presentation.pdf
 
 ## Blog post
 
-<a href=" ">King County House Sale Market</a>
+<a href="https://linhmai19.github.io/king_county_house_sale_market">King County House Sale Market</a>
 
 
